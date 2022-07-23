@@ -1,0 +1,9 @@
+{
+    "client_id": "air-purifier-1",
+    "ssid": "your-ssid",
+    "pw": "your-wifi-password",
+    "broker": "your-broker-address",
+    "topic": "home/living-room/air-purifier",
+    "country": "US"
+}
+
